@@ -4,10 +4,11 @@ Hello there! My name is Dominik Gralka. I am a student and self-taught front-end
 
 - 🔭 I’m currently working on [an untraceable voice platform](https://github.com/dominik-gralka/Voiceapp) and a [speech-controlled presentation-tool](https://github.com/dominik-gralka/SpeechControl)
 - 🌱 I’m currently learning Python and TypeScript
-- 👯 I’m looking to collaborate on ...
-<!--- 🤔 I’m looking for help with ...-->
+- 👯 I’m looking to collaborate on anything! Just contact me!
 - 💬 Ask me about anything [here](https://github.com/dominik-gralka/dominik-gralka/issues)
 - 📫 How to reach me: [E-Mail](mailto:dominik@gralka.info), Discord (Dom#0985) 
+
+<!--- 🤔 I’m looking for help with ...-->
 
 <br>
 
