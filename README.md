@@ -14,5 +14,3 @@ Hello there! My name is Dominik Gralka. I am a student and self-taught front-end
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominik-gralka)](https://github.com/dominik-gralka/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominik-gralka&layout=compact)](https://github.com/dominik-gralka/github-readme-stats)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
