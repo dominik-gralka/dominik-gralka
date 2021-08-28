@@ -3,7 +3,7 @@
 Hello there! My name is Dominik Gralka. I am a student and self-taught front-end developer from Hamburg.
 
 - 🔭 I’m currently working on [an untraceable voice platform](https://github.com/dominik-gralka/Voiceapp) and a [speech-controlled presentation-tool](https://github.com/dominik-gralka/SpeechControl)
-- 🌱 I’m currently learning Python and TypeScript
+- 🌱 I’m currently learning React and NextJS
 - 👯 I’m looking to collaborate on anything! Just contact me!
 - 💬 Ask me about anything [here](https://github.com/dominik-gralka/dominik-gralka/issues)
 - 📫 How to reach me: [E-Mail](mailto:dominik@gralka.info), Discord (Dom#0985) 
