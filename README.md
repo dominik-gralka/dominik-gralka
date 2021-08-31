@@ -1,3 +1,9 @@
+![HTML](https://img.shields.io/badge/HTML-404D59?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-404D59?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-404D59?style=for-the-badge&logo=javascript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-404D59?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-404D59?style=for-the-badge&logo=python&logoColor=white)
+
 ### Hello there, I'm [Dom!](mailto:dominik@gralka.info) 👋
 
 Hello there! My name is Dominik Gralka. I am a student and self-taught front-end developer from Hamburg.
