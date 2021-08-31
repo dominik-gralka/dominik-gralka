@@ -3,6 +3,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-404D59?style=for-the-badge&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-404D59?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-404D59?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-404D59?style=for-the-badge&logo=java&logoColor=white)
 
 ### Hello there, I'm [Dom!](mailto:dominik@gralka.info) 👋
 
