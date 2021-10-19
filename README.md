@@ -6,7 +6,7 @@
 
 ### Hello there, I'm [Dom!](mailto:dominik@gralka.info) 👋
 
-My name is Dominik Gralka. I am a student and self-taught front-end developer from Hamburg.
+My name is Dominik Gralka. I am a student and self-taught fullstack developer from Hamburg.
 
 - 🔭 I’m currently working on [an untraceable voice platform](https://github.com/dominik-gralka/Voiceapp) and a [speech-controlled presentation-tool](https://github.com/dominik-gralka/SpeechControl)
 - 🌱 I’m currently learning React and NextJS
