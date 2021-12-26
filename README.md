@@ -3,16 +3,18 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-404D59?style=for-the-badge&logo=javascript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-404D59?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-404D59?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-404D59?style=for-the-badge&logo=java&logoColor=white)
 
 ### Hello there, I'm [Dom!](mailto:dominik@gralka.info) 👋
 
 My name is Dominik Gralka. I am a student and self-taught fullstack developer from Hamburg.
 
 - 🔭 I’m currently working on [an untraceable voice platform](https://github.com/dominik-gralka/Voiceapp) and a [speech-controlled presentation-tool](https://github.com/dominik-gralka/SpeechControl)
-- 🌱 I’m currently learning React and NextJS
+- 🌱 I’m currently learning NextJS.
 - 👯 I’m looking to collaborate on anything! Just contact me!
 - 💬 Ask me about anything [here](https://github.com/dominik-gralka/dominik-gralka/issues)
 - 📫 How to reach me: [E-Mail](mailto:dominik@gralka.info), Discord (Dom#0985) 
+- 💰 Donate (BTC): bc1p7u72ckqc392tvpe02yw8javv9je0qnfg4nts99l7rzuluq4up0sq86hx72
 
 <!--- 🤔 I’m looking for help with ...-->
 
