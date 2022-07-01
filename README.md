@@ -14,7 +14,6 @@ My name is Dominik Gralka. I am a student and self-taught fullstack developer fr
 - 👯 I’m looking to collaborate on anything! Just contact me!
 - 💬 Ask me about anything [here](https://github.com/dominik-gralka/dominik-gralka/issues)
 - 📫 How to reach me: [E-Mail](mailto:dominik@gralka.info), Discord (Dom#0985) 
-- 💰 Donate (BTC): bc1p7u72ckqc392tvpe02yw8javv9je0qnfg4nts99l7rzuluq4up0sq86hx72
 
 <!--- 🤔 I’m looking for help with ...-->
 
